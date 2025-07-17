@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Confidence Mothiba",
+    "section": "",
+    "text": "Data Scientist & IT Professional\nI am a Data Scientist, specializing in healthcare data management and IT in health solutions. With over a decade of experience in data harmonization, database management, and healthcare technology, I bring deep expertise in managing complex datasets and supporting research initiatives.\nMy work involves harmonizing and merging large datasets from diverse sources, conducting data quality checks, and providing data for regional and multiregional analyses. I’m passionate about leveraging technology to improve healthcare outcomes and research capabilities.",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get In Touch",
+    "section": "",
+    "text": "Get In Touch\nFeel free to reach out via email or LinkedIn.\n\n📧 Email: mothibacs@gmail.com\n💼 LinkedIn: linkedin.com/in/your-link\n🐙 GitHub: github.com/yourhandle\n📍 Location: Cape Town, South Africa\n\n\nIf you’d like to collaborate or hire me, let’s connect!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a data professional working in research and analytics, with experience in R Shiny apps, SQL databases, and statistical modeling.\n\n\n\nR, Shiny, dplyr, ggplot2\nSQL (SQL Server, PostgreSQL)\nPython, pandas, scikit-learn\nData visualization, dashboarding\n\nAbout this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "R, Shiny, dplyr, ggplot2\nSQL (SQL Server, PostgreSQL)\nPython, pandas, scikit-learn\nData visualization, dashboarding\n\nAbout this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a Shiny dashboard to visualize and analyze CD4 data across regions, age, and sex, with support for real-time SQL queries.\n\nTech: R Shiny, Plotly, SQL Server\n\n\n\n\n\nInternal dashboard to monitor data submissions across clinics in Southern Africa, with automated QA and export to Excel.\n\nTech: R, DT, openxlsx\n\n\n\n\n\nDeveloped and maintained internal training and mailing systems for a pan-African research network.\n\nTech: PHP, Drupal, RedCap, SQL\n\n\n\n\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\n\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "projects.html#cd4-visualization-app",
+    "href": "projects.html#cd4-visualization-app",
+    "title": "Projects",
+    "section": "",
+    "text": "Built an interactive R Shiny app visualizing CD4 count distribution across age, sex, and programs.\n\nTools: R, Shiny, ggplot2, SQL Server"
+  },
+  {
+    "objectID": "projects.html#data-transfer-tracker",
+    "href": "projects.html#data-transfer-tracker",
+    "title": "Projects",
+    "section": "",
+    "text": "Internal tool for monitoring cohort data extraction timelines.\n\nTools: R Shiny, DT, openxlsx"
+  },
+  {
+    "objectID": "projects.html#quarto",
+    "href": "projects.html#quarto",
+    "title": "Projects",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects.html#running-code",
+    "href": "projects.html#running-code",
+    "title": "Projects",
+    "section": "",
+    "text": "When you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "projects.html#cd4-count-analysis-dashboard",
+    "href": "projects.html#cd4-count-analysis-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a Shiny dashboard to visualize and analyze CD4 data across regions, age, and sex, with support for real-time SQL queries.\n\nTech: R Shiny, Plotly, SQL Server"
+  },
+  {
+    "objectID": "projects.html#data-tracker-for-iedea-sa",
+    "href": "projects.html#data-tracker-for-iedea-sa",
+    "title": "Projects",
+    "section": "",
+    "text": "Internal dashboard to monitor data submissions across clinics in Southern Africa, with automated QA and export to Excel.\n\nTech: R, DT, openxlsx"
+  },
+  {
+    "objectID": "projects.html#h3africa-training-platform",
+    "href": "projects.html#h3africa-training-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed and maintained internal training and mailing systems for a pan-African research network.\n\nTech: PHP, Drupal, RedCap, SQL"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "My CV",
+    "section": "",
+    "text": "Download My CV\nYou can view or download my full CV using the link below:\n👉 Download CV (PDF)\nOr scroll through the highlights on the About page."
+  },
+  {
+    "objectID": "index.html#skills-competencies",
+    "href": "index.html#skills-competencies",
+    "title": "Confidence Mothiba",
+    "section": "🔧 Skills & Competencies",
+    "text": "🔧 Skills & Competencies\n\nData Analysis: R Shiny, SQL, STATA\nData Management: SQL Server, RedCap, Excel, SASS\nDomains: Public Health, Data Systems, Research IT Support\nDevelopment: PHP, JavaScript, Quarto, R, Python, Drupal, WordPress\nProject Management: PRINCE2, Agile, Waterfall\nSoft Skills: Leadership, Training, Documentation, Project Management (PRINCE2, Agile)",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Confidence Mothiba",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nPGDip: Healthcare Technology Management – Univ. of Cape Town\nProject Management in Global Health - Univ. of Washington\nLeadership in Health – Univ. of Washington\nNational Diploma: IT (Software Development) – Tshwane Univ. of Technology\nProfessional Licenses: Good Clinical Laboratory Practise",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Confidence Mothiba",
+    "section": "💼 Work Experience",
+    "text": "💼 Work Experience\n\nData Manager, University of Cape Town (2023–present)\n\nResponsible for daily management of IeDEA-SA Data Centre, harmonizing and merging large datasets from numerous diverse sources.\nConduct data quality checks and liaise with site investigators and data managers regarding data quality.\nProvide data for regional and multiregional analyses in line with complex analytic proposals.\nAssist the Senior Data Scientist with setting up standard procedures for data processing and management.\nDevelop dashboards for data management and analysis using R Shiny and T-SQL.\nManaging data harmonization across multi-country health datasets.\nSupporting dashboards, SQL pipelines, and international collaborations.\nPrepare data for manuscripts using SQL, R, and STATA.\n\n\n\nIT Support Consultant, H3Africa; University of Cape Town (Mar 2018 - Mar 2023)\n\nConduct daily IT administration, maintenance, support, and coordination within the H3Africa consortium.\nProvide daily IT tasks including systems support, ensuring a virus-free environment, user password reset.\nDevelop and maintain database forms using RedCap, Microsoft Excel, and SQL.\nOrganize, plan, and arrange virtual workshops, providing technical support to research project teams.\nDevelop online surveys (M & E) and translate results graphically.\nGenerate online certificates for training participants and monitor system changes.\n\n\n\nWebsite Developer, SITA (Apr 2014 - Feb 2018)\n\nDesign, develop, manage, and maintain provincial department and local municipalities websites using CMS technology (Drupal, WordPress, Joomla)\nManage websites revamps and migration of data\nCapture support requests from clients and ensure requests are resolved within SLA timeframe\nEnsure content is browser-friendly, images are high quality and resizable to device screen size\nProvide telephonic and written step-by-step solutions to clients",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Confidence Mothiba",
+    "section": "📬 Get In Touch",
+    "text": "📬 Get In Touch\nFeel free to reach out via email or LinkedIn.\n\n📧 Email: mothibacs@gmail.com\n💼 LinkedIn: https://www.linkedin.com/in/confidence-mothiba-36077455/\n🐙 GitHub: github.com/mothibawebdev\n📍 Location: Cape Town, South Africa",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#techincal-skills-competencies",
+    "href": "index.html#techincal-skills-competencies",
+    "title": "Confidence Mothiba",
+    "section": "🔧 Techincal Skills & Competencies",
+    "text": "🔧 Techincal Skills & Competencies\n📊 Data Analysis: R Shiny, SQL, STATA\n🗄️ Data Management: SQL Server, RedCap, Excel, SASS\n🌍 Domains: Public Health, Data Systems & Design, Research IT Support, Systems Analysis\n🛠️ Development: PHP, JavaScript, Quarto, R, Python, Drupal, WordPress\n📆 Project Management: PRINCE2, Agile, Waterfall\n🧠 Soft Skills: Leadership, Training, Documentation, Project Management (PRINCE2, Agile)",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#skills-overview",
+    "href": "index.html#skills-overview",
+    "title": "Confidence Mothiba",
+    "section": "🚀 Skills Overview",
+    "text": "🚀 Skills Overview\n\n\n\n&lt;strong&gt;R Shiny&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-success\" style=\"width: 90%;\"&gt;90%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;SQL Server&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-success\" style=\"width: 95%;\"&gt;95%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;STATA&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-info\" style=\"width: 85%;\"&gt;85%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;RedCap&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-info\" style=\"width: 92%;\"&gt;92%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;PHP&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-warning\" style=\"width: 88%;\"&gt;88%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;JavaScript&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-warning\" style=\"width: 80%;\"&gt;80%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;Web Development&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-primary\" style=\"width: 90%;\"&gt;90%&lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;strong&gt;Project Management&lt;/strong&gt;\n&lt;div class=\"progress\"&gt;\n  &lt;div class=\"progress-bar bg-secondary\" style=\"width: 87%;\"&gt;87%&lt;/div&gt;\n&lt;/div&gt;",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  }
+]

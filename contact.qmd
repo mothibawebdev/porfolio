@@ -1,0 +1,16 @@
+---
+title: ""
+format: html
+---
+
+# Get In Touch
+
+Feel free to reach out via email or LinkedIn.
+
+- 📧 Email: [mothibacs@gmail.com](mailto:mothibacs@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-link](#)
+- 🐙 GitHub: github.com/yourhandle
+- 📍 Location: Cape Town, South Africa
+---
+
+# 

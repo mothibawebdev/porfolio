@@ -1,0 +1,65 @@
+---
+title: ""
+index:
+ template: broadside
+ image: "images/profile.jpg"
+format: html
+---
+
+```{=html}
+<img src="images/profile.jpg" alt="Profile picture of Confidence Mothiba" width="200px" style="border-radius: 50%; margin-bottom: 1em;">
+
+**Data Scientist & IT Professional**
+
+I am a **Data Scientist**, specializing in healthcare data management and IT in health solutions. With over a decade of experience in data harmonization, database management, and healthcare technology, I bring deep expertise in managing complex datasets and supporting research initiatives.
+
+My work involves harmonizing and merging large datasets from diverse sources, conducting data quality checks, and providing data for regional and multiregional analyses. I'm passionate about leveraging technology to improve healthcare outcomes and research capabilities.
+
+## 🔧 Techincal Skills & Competencies
+
+📊 **Data Analysis**: R Shiny, SQL, STATA
+
+🗄️ **Data Management**: SQL Server, RedCap, Excel, SASS
+
+🌍 **Domains**: Public Health, Data Systems & Design, Research IT Support, Systems Analysis
+
+🛠️ **Development**: PHP, JavaScript, Quarto, R, Python, Drupal, WordPress
+
+📆 **Project Management**: PRINCE2, Agile, Waterfall
+
+🧠 **Soft Skills**: Leadership, Training, Documentation, Project Management (PRINCE2, Agile)
+
+## 🎓 Education
+
+- PGDip: Healthcare Technology Management – Univ. of Cape Town
+- Project Management in Global Health - Univ. of Washington
+- Leadership in Health – Univ. of Washington
+- National Diploma: IT (Software Development) – Tshwane Univ. of Technology
+- Professional Licenses: Good Clinical Laboratory Practise
+
+## 💼 Work Experience
+### Data Manager, University of Cape Town (2023–present)
+- Responsible for daily management of IeDEA-SA Data Centre, harmonizing and merging large datasets from numerous diverse sources.
+- Conduct data quality checks and liaise with site investigators and data managers regarding data quality.
+- Provide data for regional and multiregional analyses in line with complex analytic proposals.
+- Assist the Senior Data Scientist with setting up standard procedures for data processing and management.
+- Develop dashboards for data management and analysis using R Shiny and T-SQL.
+- Managing data harmonization across multi-country health datasets.
+- Supporting dashboards, SQL pipelines, and international collaborations.
+- Prepare data for manuscripts using SQL, R, and STATA.
+
+### IT Support Consultant, H3Africa; University of Cape Town (Mar 2018 - Mar 2023)
+- Conduct daily IT administration, maintenance, support, and coordination within the H3Africa consortium.
+- Provide daily IT tasks including systems support, ensuring a virus-free environment, user password reset.
+- Develop and maintain database forms using RedCap, Microsoft Excel, and SQL.
+- Organize, plan, and arrange virtual workshops, providing technical support to research project teams.
+- Develop online surveys (M & E) and translate results graphically.
+- Generate online certificates for training participants and monitor system changes.
+
+### Website Developer, SITA (Apr 2014 - Feb 2018)
+- Design, develop, manage, and maintain provincial department and local municipalities websites using CMS technology (Drupal, WordPress, Joomla)
+- Manage websites revamps and migration of data
+- Capture support requests from clients and ensure requests are resolved within SLA timeframe
+- Ensure content is browser-friendly, images are high quality and resizable to device screen size
+- Provide telephonic and written step-by-step solutions to clients
+---

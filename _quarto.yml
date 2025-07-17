@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Confidence Mothiba"
+  back-to-top-navigation: true
+  sidebar: 
+    style: docked
+    search: true
+    contents: 
+      - text: "Introduction"
+        href: index.qmd
+      - text: "Skill & Competencies"
+        href: index.qmd#skills-competencies
+      - text: "Educational Background"
+        href: index.qmd#education
+      - text: "Work Experience"
+        href: index.qmd#work-experience
+  navbar:
+    background: primary
+    search: false
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+  page-footer:
+    left: "© 2025, Confidence Mothiba"
+    right:
+      - text: "Lets Get in Touch"
+      - icon: envelope
+        href: "mailto:mothibacs@gmail.com"
+      - icon: github
+        href: https://github.com/mothibawebdev
+      - icon: linkedin
+        href:  https://www.linkedin.com/in/confidence-mothiba-36077455/
+      - icon: telephone
+        href: "tel:+27785614443"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

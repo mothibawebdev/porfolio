@@ -1,0 +1,51 @@
+---
+title: ""
+format: html
+---
+
+# Projects
+
+## 📈 CD4 Count Analysis Dashboard
+
+Built a Shiny dashboard to visualize and analyze CD4 data across regions, age, and sex, with support for real-time SQL queries.
+
+-   **Tech**: R Shiny, Plotly, SQL Server
+
+------------------------------------------------------------------------
+
+## 📊 Data Tracker for IeDEA-SA
+
+Internal dashboard to monitor data submissions across clinics in Southern Africa, with automated QA and export to Excel.
+
+-   **Tech**: R, DT, openxlsx
+
+------------------------------------------------------------------------
+
+## 🌍 H3Africa Training Platform
+
+Developed and maintained internal training and mailing systems for a pan-African research network.
+
+-   
+
+    ## **Tech**: PHP, Drupal, RedCap, SQL
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

@@ -1,0 +1,21 @@
+---
+title: ""
+format: html
+---
+
+# About Me
+
+I'm a data professional working in research and analytics, with experience in R Shiny apps, SQL databases, and statistical modeling.
+
+## Skills
+
+-   R, Shiny, dplyr, ggplot2
+-   SQL (SQL Server, PostgreSQL)
+-   Python, pandas, scikit-learn
+-   Data visualization, dashboarding
+
+About this site
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,12 @@
+---
+title: "My CV"
+format: html
+---
+
+# Download My CV
+
+You can view or download my full CV using the link below:
+
+👉 [Download CV (PDF)](files/CV_2025.pdf){target="_blank"}
+
+Or scroll through the highlights on the [About](about.qmd) page.
